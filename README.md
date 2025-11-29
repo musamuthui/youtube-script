@@ -40,6 +40,11 @@ cd /path/to/your/project/youtube-script
 pip install -r requirements.txt
 ```
 
+- Install ffmpeg on your machine (Windows/MacOS or Linux) for the script to work
+```
+https://www.ffmpeg.org/download.html
+```
+
 - To run:
     
     On Windows:
